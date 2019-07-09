@@ -1,0 +1,33 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 300
+    },
+    {
+      "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
