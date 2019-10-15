@@ -6,17 +6,17 @@
   "websites": [
     {
       "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/home",
-      "duration": 10,
+      "duration": 30,
       "tabReloadIntervalSeconds": 15
     },
     {
       "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/5s",
-      "duration": 10,
+      "duration": 30,
       "tabReloadIntervalSeconds": 15
     },
     {
       "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/5",
-      "duration": 10,
+      "duration": 30,
       "tabReloadIntervalSeconds": 15
     },
     {
@@ -26,17 +26,17 @@
     },
     {
       "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/comportement",
-      "duration": 10,
+      "duration": 30,
       "tabReloadIntervalSeconds": 15
     },
     {
       "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/comportement-graph",
-      "duration": 10,
+      "duration": 30,
       "tabReloadIntervalSeconds": 15
     },
     {
       "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/agenda-securite",
-      "duration": 10,
+      "duration": 30,
       "tabReloadIntervalSeconds": 15
     }
   ]
