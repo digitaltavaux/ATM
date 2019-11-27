@@ -16,7 +16,7 @@
     },
     {
       "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/5",
-      "duration": 30,
+      "duration": 45,
       "tabReloadIntervalSeconds": 15
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/comportement-graph",
-      "duration": 30,
+      "duration": 45,
       "tabReloadIntervalSeconds": 15
     },
     {
