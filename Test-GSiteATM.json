@@ -35,6 +35,11 @@
       "tabReloadIntervalSeconds": 15
     },
     {
+      "url": "https://docs.google.com/spreadsheets/d/1I568nbk3ik-EvvuYDyio7kaGtKMu_UPHHy5Ze3BaS8I/edit?usp=sharing",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
       "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/agenda-securite",
       "duration": 30,
       "tabReloadIntervalSeconds": 15
