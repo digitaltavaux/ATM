@@ -11,31 +11,31 @@
     },
     {
       "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/5s",
-      "duration": 30,
+      "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
     {
       "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/5",
-      "duration": 45,
+      "duration": 15,
       "tabReloadIntervalSeconds": 15
     },
     {
       "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/innovation",
-      "duration": 30,
+      "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
     {
       "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/comportement",
-      "duration": 30,
+      "duration": 10,
       "tabReloadIntervalSeconds": 15
     },
     {
       "url": "https://sites.google.com/a/solvay.com/tableau-de-bord-atm/comportement-graph",
-      "duration": 45,
+      "duration": 15,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://docs.google.com/spreadsheets/d/1I568nbk3ik-EvvuYDyio7kaGtKMu_UPHHy5Ze3BaS8I/edit?usp=sharing",
+      "url": "https://docs.google.com/spreadsheets/d/1I568nbk3ik-EvvuYDyio7kaGtKMu_UPHHy5Ze3BaS8I/edit#gid=385472401",
       "duration": 20,
       "tabReloadIntervalSeconds": 15
     },
